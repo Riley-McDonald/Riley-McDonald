@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Riley-McDonald/Riley-McDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Riley - a physicist and data scientist focused on quantum computing, 
+quantitative finance, and machine learning.
 
-Here are some ideas to get you started:
+## Background
+- MS in Decision Analytics — Stony Brook University, 2026
+- BS in Physics - Longwood University, 2024
+- Research interests: quantum algorithms, NISQ devices, 
+  computational finance, physics-informed ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Quantum:** Qiskit · PennyLane · Cirq  
+**ML/DS:** PyTorch · TensorFlow · scikit-learn · pandas · numpy  
+**Finance:** scipy · statsmodels · yfinance · matplotlib  
+**Other:** Python · Julia · SQL · Git · Docker · Jupyter
+
+## Current Projects
+- Quantum option pricing using amplitude estimation
+- Variational Quantum Eigensolver for molecular simulation
+- Physics-informed neural networks for PDE solving
+- Statistical arbitrage and pairs trading system
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/riley-mcdonald-8a5ba51bb/)
+📧 mcdonaldriley11@gmail.com
