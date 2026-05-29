@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Riley - a physicist and data scientist focused on quantum computing, 
-quantitative finance, and machine learning.
+quantitative finance, airline optimization and machine learning.
 
 ## Background
 - MS in Decision Analytics — Stony Brook University, 2026
@@ -16,6 +16,7 @@ quantitative finance, and machine learning.
 **Other:** Python · Julia · SQL · Git · Docker · Jupyter
 
 ## Current Projects
+- Airline analyst problems
 - Quantum option pricing using amplitude estimation
 - Variational Quantum Eigensolver for molecular simulation
 - Physics-informed neural networks for PDE solving
